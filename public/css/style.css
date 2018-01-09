@@ -1,0 +1,126 @@
+.deduction_type .row:first-child {
+    text-align: center;
+}
+
+.deduction_type .row {
+	margin-bottom: 10px;
+}
+
+.ap_accounts .row {
+    margin-bottom: 15px;
+}
+
+.truck_model, .customer_model, .driver_model {
+	cursor: pointer;
+}
+
+.next-prev-button .m-content {
+    padding: 0px 30px !important;
+}
+
+.next-prev-button .next_prev_link 
+{
+	padding: 20px 0px;
+}
+
+
+.order_chassis .container_chassis {
+	margin-bottom: 10px;
+}
+
+
+.top_menu_left {
+    float: left;
+}
+
+
+.btn-group.menu_tabs {
+    float: right;
+}
+
+.menu_tabs label.btn.btn-warning {
+    margin-left: 11px;
+}
+
+.menu_tabs .btn-warning 
+{
+	background-color: #36a3f7;
+  border-color: #36a3f7;
+}
+
+.menu_tabs span 
+{
+	color: #fff;
+}
+.menu_tabs .btn-warning a:hover {
+	text-decoration: none;
+}
+
+.not-active {
+  pointer-events: none;
+  cursor: default;
+}
+
+.deliver_point {
+  width: 200px;
+}
+
+.trip_loct {
+  width: 250px;
+}
+#add_trip_detail {
+  display: none;
+}
+
+input#dispatch_date {
+    width: 120px;
+}
+
+span.dispatch_message {
+    float: right;
+    top: 22px;
+    font-size: 20px;
+    position: relative;
+    color: #e1a887;
+    font-weight: 500;
+}
+.dispatch_diabled {
+    background: snow;
+}
+.dispatch_diabled:hover{
+  background: snow;
+  cursor: no-drop;
+}
+
+
+input#completed_date {
+    width: 120px;
+}
+
+span.completed_message {
+    float: right;
+    top: 22px;
+    font-size: 20px;
+    position: relative;
+    color: #e1a887;
+    font-weight: 500;
+}
+.completed_disabled {
+    background: snow;
+}
+.completed_disabled:hover{
+  background: snow;
+  cursor: no-drop;
+}
+
+.m-datatable.m-datatable--default > .m-datatable__table > .m-datatable__head .m-datatable__row > .m-datatable__cell {
+    text-align: center;
+}
+tr span{
+  text-align: center;
+}
+sup {
+  top: 0px;
+  font-size: 17px;
+  color: red;
+  }
